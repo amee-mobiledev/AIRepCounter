@@ -159,7 +159,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
-**Email:** [Your Contact Email]  
+**Email:** Amee.Mobile.Dev@gmail.com  
 **Subject Line:** AI Rep Counter Privacy Policy Inquiry
 
 ## **Compliance**
