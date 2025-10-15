@@ -35,12 +35,13 @@ AI Rep Counter requires the following permissions to function properly:
 - **Control**: You can disable internet access, but ads will not display
 - **Important**: The free version requires internet connection to function properly. If internet permission is revoked or connection is unavailable, the app will not operate as it needs to display ads to remain free. The paid version (AI Rep Counter Pro) does not require internet connection and operates completely offline without any advertisements.
 
-#### **Network State Permission**
-- **Purpose**: Check internet connectivity for ad loading (free version only)
-- **Usage**: Determine when to load advertisements
-- **Data Handling**: No personal data is collected
-- **Privacy**: Only checks connectivity status
-- **Control**: You can revoke this permission without affecting core functionality
+#### **Network State Permission (Free Version Only)**
+- **Purpose**: Check internet connectivity for ad loading and app functionality enforcement
+- **Usage**: Determine when to load advertisements and verify internet connection status
+- **Data Handling**: No personal data is collected, only network connectivity status
+- **Privacy**: Only checks if device has internet connection, no data transmitted
+- **Control**: You can revoke this permission, but the free version requires internet connection to function properly
+- **Important**: This permission is essential for the free version to determine if internet is available for ad display. The paid version does not require this permission as it operates offline.
 
 ### **Optional Permissions**
 - **None**: AI Rep Counter does not request any optional permissions
