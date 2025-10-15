@@ -1,7 +1,7 @@
 # Privacy Policy for AI Rep Counter
 
-**Effective Date:** [Date]  
-**Last Updated:** [Date]
+**Effective Date:** October 14, 2025  
+**Last Updated:** October 14, 2025
 
 ## **Introduction**
 
@@ -33,6 +33,7 @@ AI Rep Counter requires the following permissions to function properly:
 - **Data Handling**: Standard advertising data as per Google's Privacy Policy
 - **Privacy**: No personal data is transmitted for advertising
 - **Control**: You can disable internet access, but ads will not display
+- **Important**: The free version requires internet connection to function properly. If internet permission is revoked or connection is unavailable, the app will not operate as it needs to display ads to remain free. The paid version (AI Rep Counter Pro) does not require internet connection and operates completely offline without any advertisements.
 
 #### **Network State Permission**
 - **Purpose**: Check internet connectivity for ad loading (free version only)
@@ -130,7 +131,7 @@ We do not collect, store, or transmit any personal information that can identify
 ### **Privacy Settings**
 - **Camera Access**: Required for core functionality, can be managed in device settings
 - **Storage Access**: Required for data persistence, can be managed in device settings
-- **Internet Access**: Can be disabled to prevent ads (free version only)
+- **Internet Access**: Required for free version to display ads. Disabling will prevent the app from functioning. Paid version does not require internet access.
 - **Ad Personalization**: Can be disabled in device settings (free version only)
 - **Permission Management**: All permissions can be reviewed and modified in device settings
 
@@ -203,9 +204,10 @@ This Privacy Policy complies with:
 - **No External Access**: No external access to encrypted data
 
 ### **Network Usage**
-- **Minimal Network**: Only for app updates and ads (free version)
-- **No Data Transmission**: No workout data transmitted over network
-- **Offline Operation**: Core functionality works without internet
+- **Free Version**: Requires internet connection for ad display. App will not function without internet permission or connection.
+- **Paid Version**: No internet connection required. Operates completely offline without any network usage.
+- **No Data Transmission**: No workout data transmitted over network in either version
+- **App Updates**: Both versions may use network for app updates only
 
 ## **Summary**
 
